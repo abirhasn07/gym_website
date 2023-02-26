@@ -1,5 +1,1 @@
-# React Fitness Application
-
-![React Fitness Application](https://i.ibb.co/Yt9spGc/image.png)
-
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+![Golds-gym](https://user-images.githubusercontent.com/75903935/221419846-4e679ec2-0100-470a-9225-ee4e42da0857.png)
